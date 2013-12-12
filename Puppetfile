@@ -62,6 +62,11 @@ github "osx",         "2.2.0"
 github "virtualbox",  "1.0.9"
 github "intellij",    "1.4.0"
 github "mou",         "1.1.3"
+github "caffeine",    "1.0.0"
+github "github_for_mac","1.0.1"
+github "vagrant",     "3.0.1"
+github "property_list_key","0.1.0", :repo => "glarizza/puppet-property_list_key"
+github "pckeyboardhack","1.0.8", :repo => "smh/puppet-pckeyboardhack"
 
 # Optional/custom modules. There are tons available at
 # https://github.com/boxen.
